@@ -117,8 +117,3 @@ Developed by the Visual Geometry Group (Oxford), VGG popularized small (3×3) fi
 - [Keras](https://keras.io/)
 - Python 3.x
 - Google Colab / Jupyter Notebooks
-
----
-
-## 📂 Folder Structure (Example)
-
