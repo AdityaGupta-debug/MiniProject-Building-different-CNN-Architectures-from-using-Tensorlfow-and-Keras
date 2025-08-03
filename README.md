@@ -11,7 +11,7 @@ Building and training CNN models from scratch helps in understanding:
 - 🏗️ Architecture design principles  
 - 📉 Parameter efficiency  
 - 🧱 Feature extraction hierarchies  
-- 🕰️ Historical evolution of deep learning  
+- 🕰️ Historical evolution of deep learning
 
 ---
 
